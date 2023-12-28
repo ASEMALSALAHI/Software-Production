@@ -1,0 +1,83 @@
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe.config
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\bin\Debug\Yazılımyapımı.pdb
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmUyeol.resources
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.sifremiunuttumFrm.resources
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.Properties.Resources.resources
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.GenerateResource.cache
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.exe
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.pdb
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAdminEkrani.resources
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.FrmGirisekrani.resources
+C:\Users\Emin\Desktop\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAnaekran.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe.config
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\bin\Debug\Yazılımyapımı.pdb
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAnaekran.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAdminEkrani.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.FrmGirisekrani.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmSinavSorumlu.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmUyeol.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.sifremiunuttumFrm.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.Properties.Resources.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.exe
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.pdb
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.siinav.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmOgrenciAnaEkran.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe.config
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\bin\Debug\Yazılımyapımı.pdb
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAnaekran.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAdminEkrani.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.FrmGirisekrani.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmOgrenciAnaEkran.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmSinavSorumlu.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmUyeol.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.sifremiunuttumFrm.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.Properties.Resources.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.siinav.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.exe
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.pdb
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe.config
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\bin\Debug\Yazılımyapımı.exe
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\bin\Debug\Yazılımyapımı.pdb
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.AssemblyReference.cache
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAnaekran.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAdminEkrani.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.FrmGirisekrani.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmOgrenciAnaEkran.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmSinavSorumlu.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmUyeol.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.sifremiunuttumFrm.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.Properties.Resources.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.siinav.resources
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.GenerateResource.cache
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.exe
+C:\Users\Emin\Source\Repos\yazilimyapimison\Yazılımyapımı\obj\Debug\Yazılımyapımı.pdb
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmOgrenciSonucEkrani.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.frmAdminAnaEkrani.resources
+C:\Users\user1\Desktop\yp 6 33\yazilimyapimi-master\Yeni klasör\Yazılımyapımı\obj\Debug\Yazılımyapımı.sonuc.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yaz__l__myap__m__.csproj.AssemblyReference.cache
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmAnaekran.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmAdminAnaEkrani.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmAdminEkrani.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.FrmGirisekrani.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmOgrenciAnaEkran.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmOgrenciSonucEkrani.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmSinavSorumlu.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.frmUyeol.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.sifremiunuttumFrm.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.Properties.Resources.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.siinav.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yazılımyapımı.sonuc.resources
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yaz__l__myap__m__.csproj.GenerateResource.cache
+D:\2.sinif 2.donem\yazılım yapımı\proje\yazilimyapimison-master\Yaz__l__myap__m__\obj\Debug\Yaz__l__myap__m__.csproj.CoreCompileInputs.cache

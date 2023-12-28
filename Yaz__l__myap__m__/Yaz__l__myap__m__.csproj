@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7233898-C981-439D-BD6C-E845EF067CA1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Yazılımyapımı</RootNamespace>
+    <AssemblyName>Yazılımyapımı</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anaekran.Designer.cs">
+      <DependentUpon>anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminAnaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminAnaEkrani.Designer.cs">
+      <DependentUpon>frmAdminAnaEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminEkrani.Designer.cs">
+      <DependentUpon>frmAdminEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGirisEkrani.Designer.cs">
+      <DependentUpon>frmGirisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenciAnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenciAnaEkran.Designer.cs">
+      <DependentUpon>frmOgrenciAnaEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOgrenciSonucEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOgrenciSonucEkrani.Designer.cs">
+      <DependentUpon>frmOgrenciSonucEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSinavSorumlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSinavSorumlu.Designer.cs">
+      <DependentUpon>frmSinavSorumlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeol.Designer.cs">
+      <DependentUpon>frmUyeol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frnSifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frnSifremiUnuttum.Designer.cs">
+      <DependentUpon>frnSifremiUnuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrenci.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="siinav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siinav.Designer.cs">
+      <DependentUpon>siinav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sonuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sonuc.Designer.cs">
+      <DependentUpon>sonuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sqlbaglantisi.cs" />
+    <Compile Include="yazılımyapımıDataSet.cs">
+      <DependentUpon>yazılımyapımıDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="yazılımyapımıDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>yazılımyapımıDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="yazılımyapımıDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>yazılımyapımıDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anaekran.resx">
+      <DependentUpon>anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminAnaEkrani.resx">
+      <DependentUpon>frmAdminAnaEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminEkrani.resx">
+      <DependentUpon>frmAdminEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGirisEkrani.resx">
+      <DependentUpon>frmGirisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenciAnaEkran.resx">
+      <DependentUpon>frmOgrenciAnaEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOgrenciSonucEkrani.resx">
+      <DependentUpon>frmOgrenciSonucEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSinavSorumlu.resx">
+      <DependentUpon>frmSinavSorumlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeol.resx">
+      <DependentUpon>frmUyeol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frnSifremiUnuttum.resx">
+      <DependentUpon>frnSifremiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="siinav.resx">
+      <DependentUpon>siinav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sonuc.resx">
+      <DependentUpon>sonuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="yazılımyapımıDataSet.xsc">
+      <DependentUpon>yazılımyapımıDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="yazılımyapımıDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>yazılımyapımıDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="yazılımyapımıDataSet.xss">
+      <DependentUpon>yazılımyapımıDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="yazılımyapımıDataSet1.xsc">
+      <DependentUpon>yazılımyapımıDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="yazılımyapımıDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>yazılımyapımıDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="yazılımyapımıDataSet1.xss">
+      <DependentUpon>yazılımyapımıDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

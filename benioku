@@ -1,0 +1,5 @@
+Projeyi çalıştırabilmek için yp ve yazılımyapımı adında 2 database oluşturduktan sonra githubda yüklü sql tablolarını execute etmeniz yeterlidir.
+admin girişleri için email ve şifre bilgileri;
+email:admin
+şifre:admin
+Program bir sınav sistemidir sınavlar değiştirilebilir kayıt tutma özelliği mevcuttur.
